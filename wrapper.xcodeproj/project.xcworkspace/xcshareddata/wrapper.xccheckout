@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B3841596-10E8-4EB2-87A0-E440BEC8FE43</string>
+	<key>IDESourceControlProjectName</key>
+	<string>wrapper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA2C32F6AB291550940E28FF2A97ABF11898B53C</key>
+		<string>https://github.com/kurtiss/apns-python-wrapper</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>wrapper.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA2C32F6AB291550940E28FF2A97ABF11898B53C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kurtiss/apns-python-wrapper</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA2C32F6AB291550940E28FF2A97ABF11898B53C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA2C32F6AB291550940E28FF2A97ABF11898B53C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>apns-python-wrapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
